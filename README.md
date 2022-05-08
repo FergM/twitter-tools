@@ -1,7 +1,7 @@
 # Twitter Tools
-Toolkit for working with the twitter API
+Toolkit for working with the twitter API.
 
-This builds on top of [`Twitter-API-v2-sample-code`](https://github.com/twitterdev/Twitter-API-v2-sample-code).
+Builds on top of [`Twitter-API-v2-sample-code`](https://github.com/twitterdev/Twitter-API-v2-sample-code).
 
 ### Usage Instructions
 You need to get a token from twitter to authenticate requests to the api.
