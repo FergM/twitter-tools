@@ -3,7 +3,10 @@ Toolkit for working with the twitter API.
 
 Builds on top of [`Twitter-API-v2-sample-code`](https://github.com/twitterdev/Twitter-API-v2-sample-code).
 
-### Usage Instructions
+### Examples
+See [Notebooks](./notebooks/)
+
+### Setup
 You need to get a token from twitter to authenticate requests to the api.
 
 This repository assumes that you have made `BEARER_TOKEN` available as an environment variable.
