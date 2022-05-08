@@ -9,9 +9,9 @@ See [Notebooks](./notebooks/)
 ### Setup
 You need to get a token from twitter to authenticate requests to the api.
 
-This repository assumes that you have made `BEARER_TOKEN` available as an environment variable.
+This repository assumes that you have made `TWITTER_BEARER_TOKEN` available as an environment variable.
 
 Steps:
 1. Create an accound on the [Twitter Developer Portal](https://developer.twitter.com/en/portal/dashboard)
 2. Create a project and get a *Bearer Token*
-3. Add the *Bearer Token* as an environment variable called `BEARER_TOKEN`
+3. Add the *Bearer Token* as an environment variable called `TWITTER_BEARER_TOKEN`

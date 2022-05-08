@@ -7,7 +7,7 @@ import json
 
 # To set your enviornment variables in your terminal run the following line:
 # export 'BEARER_TOKEN'='<your_bearer_token>'
-bearer_token = os.environ.get("BEARER_TOKEN")
+bearer_token = os.environ.get("TWITTER_BEARER_TOKEN")
 
 
 def create_url(list_id="1322508700649750528"):
